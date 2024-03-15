@@ -113,3 +113,8 @@ output/
 output*
 bkup/
 ckp/
+
+# Generated and data files
+*.pth
+*.jpg
+model_cache/
